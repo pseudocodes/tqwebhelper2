@@ -5,11 +5,11 @@
 ## Preview
 实盘
 
-![实盘](https://raw.githubusercontent.com/pseudocodes/tqwebhelper2/main/img/rl.png)
+![实盘](https://raw.githubusercontent.com/pseudocodes/tqwebhelper2/main/img/rl.webp)
 
 回测
 
-![回测](https://raw.githubusercontent.com/pseudocodes/tqwebhelper2/main/img/bt.png)
+![回测](https://raw.githubusercontent.com/pseudocodes/tqwebhelper2/main/img/bt.webp)
 
 
 ## 安装
